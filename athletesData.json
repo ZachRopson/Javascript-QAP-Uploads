@@ -1,0 +1,7 @@
+[
+    {"id": 1, "name": "LeBron James", "sport": "Basketball", "team": "Los Angeles Lakers"},
+    {"id": 2, "name": "Cristiano Ronaldo", "sport": "Soccer", "team": "Manchester United"},
+    {"id": 3, "name": "Serena Williams", "sport": "Tennis", "country": "USA"},
+    {"id": 4, "name": "Patrick Mahomes", "sport": "American Football", "team": "Kansas City Chiefs"},
+    {"id": 5, "name": "Usain Bolt", "sport": "Track and Field", "country": "Jamaica"}
+]
